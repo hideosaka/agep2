@@ -29,7 +29,7 @@ Simply run the standalone simulation script:
 python colab_rank_adaptive_simulation.py
 ```
 
-Upon completion, the script generates two high-resolution PNG figures in the working directory:
+Upon completion, the script generates two high-resolution PNG figures in the working directory.
 - `fig1_rank_dimension_reduction.png`
 - `fig2_rademacher_shrinkage.png`
 
