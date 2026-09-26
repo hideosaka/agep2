@@ -4,7 +4,7 @@ This repository contains the numerical simulation code accompanying the paper **
 
 ---
 
-## 📌 Overview
+## Overview
 
 This repository reproduces the key theoretical curves and capacity contraction bounds presented in the paper:
 1. **Figure 1**: Effective dimension $p_{\mathrm{eff}}(s) = s(d_{\mathrm{out}} + d_{\mathrm{in}} - s)$ and capacity reduction percentage as attention weight matrix rank $s$ collapses ($d_{\mathrm{in}} = d_{\mathrm{out}} = 4096$).
@@ -12,7 +12,7 @@ This repository reproduces the key theoretical curves and capacity contraction b
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -35,7 +35,7 @@ Upon completion, the script generates two high-resolution PNG figures in the wor
 
 ---
 
-## 📄 Repository Structure
+## Repository Structure
 
 ```text
 .
@@ -46,6 +46,6 @@ Upon completion, the script generates two high-resolution PNG figures in the wor
 
 ---
 
-## 🔒 Anonymity Notice
+## Anonymity Notice
 To preserve the double-blind review process, this repository contains no author names, institutional affiliations, or identifiable personal metadata. An anonymous link to this repository is generated via [Anonymous GitHub](https://anonymous.4open.science/).
 
